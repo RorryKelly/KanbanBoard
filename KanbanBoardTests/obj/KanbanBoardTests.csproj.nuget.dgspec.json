@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoardTests\\KanbanBoardTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\KanbanBoard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\KanbanBoard.csproj",
+        "projectName": "KanbanBoard",
+        "projectPath": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\KanbanBoard.csproj",
+        "packagesPath": "C:\\Users\\320064313\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320064313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.MVC4": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "FluentValidation.Mvc5": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoardTests\\KanbanBoardTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoardTests\\KanbanBoardTests.csproj",
+        "projectName": "KanbanBoardTests",
+        "projectPath": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoardTests\\KanbanBoardTests.csproj",
+        "packagesPath": "C:\\Users\\320064313\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoardTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\320064313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\KanbanBoard.csproj": {
+                "projectPath": "C:\\Code\\C#\\Kanan Board Kata\\KanbanBoardGit\\KanbanBoard2\\KanbanBoard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

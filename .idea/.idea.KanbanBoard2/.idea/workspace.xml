@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa772c66-5d99-4129-82c0-746af4f9253a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Database.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/WorkItems/Story.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoardTests/StoryTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoardTests/DatabaseTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Board.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoardTests/BoardTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/WorkItems/Validators/StoryValidators.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/85DE7BB7-1113-42CE-8734-1CB9DED5A5C9/8/LoggerT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoardTests/HttpFixture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KanbanBoard2/WorkItems/IWorkItem.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KanbanBoard2/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/TaskTests.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkTasks.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/WorkItem.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/WorkTasks.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/Stories.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/KanbanBoardTests.csproj" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/HttpFixture.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/Validators/StoryValidators.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/Database.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/IWorkItem.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/WorkItems/Story.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/DatabaseTests.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/BoardTests.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/Board.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" />
+        <option value="$PROJECT_DIR$/KanbanBoardTests/StoryTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLFe8iNwOaXAKpiIzcRgWm24JC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.KanbanBoard2">
+    <configuration name="KanbanBoard2" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/KanbanBoard2/KanbanBoard2.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="KanbanBoard2" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KanbanBoard2: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/KanbanBoard2/KanbanBoard2.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa772c66-5d99-4129-82c0-746af4f9253a" name="Default Changelist" comment="" />
+      <created>1578921060125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578921060125</updated>
+      <workItem from="1578921061379" duration="505000" />
+      <workItem from="1578921567791" duration="3878000" />
+      <workItem from="1580218629210" duration="12460000" />
+      <workItem from="1580389149319" duration="1153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580393016590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016590" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1580393016591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580393016591" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1578921611086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578921611086" />
+    <state x="788" y="195" key="RiderGenerateDialog" timestamp="1580222804024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="195" key="RiderGenerateDialog/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580222804024" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1580224687308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580224687308" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1580223321042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580223321042" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="15">
+            <startOffsets>
+              <option value="362" />
+            </startOffsets>
+            <endOffsets>
+              <option value="374" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="17">
+            <startOffsets>
+              <option value="403" />
+            </startOffsets>
+            <endOffsets>
+              <option value="404" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="16">
+            <startOffsets>
+              <option value="387" />
+            </startOffsets>
+            <endOffsets>
+              <option value="564" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="22">
+            <startOffsets>
+              <option value="523" />
+            </startOffsets>
+            <endOffsets>
+              <option value="550" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="25">
+            <startOffsets>
+              <option value="578" />
+            </startOffsets>
+            <endOffsets>
+              <option value="629" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="26">
+            <startOffsets>
+              <option value="642" />
+            </startOffsets>
+            <endOffsets>
+              <option value="663" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="32">
+            <startOffsets>
+              <option value="787" />
+            </startOffsets>
+            <endOffsets>
+              <option value="799" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="42">
+            <startOffsets>
+              <option value="1043" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1081" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>43</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="43">
+            <startOffsets>
+              <option value="1094" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1118" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>44</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="44">
+            <startOffsets>
+              <option value="1135" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1172" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="46">
+            <startOffsets>
+              <option value="1198" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1213" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="47">
+            <startOffsets>
+              <option value="1226" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1238" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>35</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="35">
+            <startOffsets>
+              <option value="846" />
+            </startOffsets>
+            <endOffsets>
+              <option value="897" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>39</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="39">
+            <startOffsets>
+              <option value="974" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1003" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoard2/Controllers/StoryController.cs" initialLine="18">
+            <startOffsets>
+              <option value="421" />
+            </startOffsets>
+            <endOffsets>
+              <option value="447" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KanbanBoardTests/StoryTests.cs</url>
+          <line>114</line>
+          <properties documentPath="$PROJECT_DIR$/KanbanBoardTests/StoryTests.cs" initialLine="114">
+            <startOffsets>
+              <option value="4524" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4588" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

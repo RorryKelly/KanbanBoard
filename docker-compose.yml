@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+    pgadmin:
+        image: dpage/pgadmin4
+        environment:
+            PGADMIN_DEFAULT_EMAIL: kanbanboard@testdb.com
+            PGADMIN_DEFAULT_PASSWORD: testdb
+        ports:
+            - 2345:80
+    postgres:
+        image: postgres
+        environment:
+            POSTGRES_DB: KanbanDB
+            POSTGRES_USER: user
+            POSTGRES_PASSWORD: user
+        ports:
+            - 5432:5432
