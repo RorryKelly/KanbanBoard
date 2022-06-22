@@ -7,7 +7,7 @@
     <ItemGroup>
       <PackageReference Include="FluentValidation.MVC4" Version="5.1.0" />
       <PackageReference Include="FluentValidation.Mvc5" Version="8.6.0" />
-      <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
       <PackageReference Include="Npgsql" Version="4.1.2" />
     </ItemGroup>
 
